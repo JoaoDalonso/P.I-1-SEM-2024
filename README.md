@@ -1,4 +1,4 @@
-# 1. Projeto Integrador - Grupo 07 
+# 1. Projeto Integrador - Grupo 06
 Projeto obrigatório do Curso de Graduação em Desenvolvimento de Software Multiplataforma
 
 ---
