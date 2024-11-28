@@ -16,7 +16,7 @@ Projeto obrigatório do Curso de Graduação em Desenvolvimento de Software Mult
  - [Fernanda Palma](https://github.com)
  - [Bruno Rodrigues](https://github.com)
  - [Edson](https://github.com)
- - [Lucas](https://github.com)
+ - [Lucas Santos](https://github.com)
 
 # 4. Sobre
 
